@@ -1215,3 +1215,55 @@
 ||xilften.la^
 ||xilften.io^
 ||clipconverter.app^
+
+# [Clipconverter Domains]
+||clipconverter.app^
+||clipconverter.cx^
+||clipconverter.io^
+
+# [Tubidy Domains]
+||en1.tubidy.pics^
+||tubidy.cool^
+||tubidy.ws^
+
+# [Flvto Domains]
+||flvto.pw^
+
+# [Getfvid Domains]
+||getfvid.io^
+||getfvid.online^
+
+# [Getmp3 Domains]
+||getmp3.app^
+||getmp3.tools^
+
+# [Notube Domains]
+||notube.cc^
+
+# [Savetube Domains]
+||savetube.co^
+||savetube.io^
+||savetube.tech^
+
+# [Snapsave Domains]
+||snapsave.app^
+||snapsave.cc^
+||snapsave.vip^
+
+# [Tubidy Domains]
+||tubidy.cool^
+||tubidy.ws^
+
+# [Ytmp3 Domains]
+||ww38.ytmp3.hair^
+||w-y2mate.com^
+||y2bs.net^
+||ytmp3.ink^
+||ytmp3.life^
+||ytmp3.show^
+||ytmp3.tel^
+||ytmp3conv.cc^
+||ytmp3convert.org^
+
+# [Other Domains]
+||dbree.org^
