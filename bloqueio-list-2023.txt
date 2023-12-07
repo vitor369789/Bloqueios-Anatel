@@ -1214,3 +1214,4 @@
 ||xilften.online^
 ||xilften.la^
 ||xilften.io^
+||clipconverter.app^
